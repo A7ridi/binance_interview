@@ -7,7 +7,7 @@ chartData();
       data: {
           labels: data.xlabels,
           datasets: [{
-              label: `Kline Data | Highest Price `,
+              label: `Highest Price | Kline Data`,
               data: data.ylabels,
               fill: false,
               backgroundColor: 'rgba(255, 99, 132, 0.2)',
