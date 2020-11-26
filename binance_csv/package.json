@@ -1,0 +1,19 @@
+{
+  "name": "binance_csv",
+  "version": "1.0.0",
+  "description": "Make csv",
+  "main": "index.js",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "fast-csv": "^4.3.5",
+    "lodash": "^4.17.20",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afridi Ahmed",
+  "license": "ISC"
+}
